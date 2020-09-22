@@ -40,7 +40,7 @@ def plot(df, type_what):
     plt.axis([250, 750, -0.5, 2]) #[xmin, xmax, ymin, ymax]
     plt.xlabel("Wavelengh (nm)", fontweight = "bold")
     plt.ylabel("Absorbance (a.u.)", fontweight = "bold")
-    plt.title("Not Title", fontsize = 15, fontweight = "bold", y = 1)
+    plt.title("123 Title", fontsize = 15, fontweight = "bold", y = 1)
 
 if __name__ == '__main__':
     import sys
